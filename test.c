@@ -1,5 +1,7 @@
 #include <stadio.h>
 
 int main(void) {
-    printf
+    printf("hello c~!");
+
+    return 0;
 }
