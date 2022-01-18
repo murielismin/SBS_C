@@ -1,7 +1,7 @@
-#include <stadio.h>
+#include <stdio.h>
 
-int main(void) {
-    printf("hello c~!");
+int main() {
+    printf("Hello C~!");
 
     return 0;
 }
